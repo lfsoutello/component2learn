@@ -170,4 +170,3 @@
 > a não ser altura e peso e enviaria para o componente de filtro. Como nenhum dos zumbis recebidos pelo componente de filtro é do
 > gênero feminino, ele não passaria nenhuma mensagem a diante para o componente de criação de gráfico. O fluxo nessa caso seria
 > interrompido por uma questão lógica, mas, ainda assim, todos os componentes sabem se comunicar entre si.
-> 
